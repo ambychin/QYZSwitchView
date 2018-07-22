@@ -1,6 +1,6 @@
 {
   "name": "QYZSwitchView",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "summary": "A short description of QYZSwitchView.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/ambychin/QYZSwitchView",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/ambychin/QYZSwitchView.git",
-    "tag": "0.1.0"
+    "tag": "1.0.2"
   },
   "platforms": {
     "ios": "8.0"

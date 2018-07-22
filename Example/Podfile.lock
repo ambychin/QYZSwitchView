@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - QYZSwitchView (0.1.0)
+  - QYZSwitchView (1.0.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  QYZSwitchView: 8208a8faa636c2227e27974105301151d636bc34
+  QYZSwitchView: 33913837947a5c16daa524f90a23e0d25039ed3b
 
 PODFILE CHECKSUM: 0070241d37227dbdf6f786957e5b8b77a61fc503
 

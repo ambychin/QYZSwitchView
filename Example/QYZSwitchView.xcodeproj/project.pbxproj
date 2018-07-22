@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		35A66B79FB140CFCC041559C /* QYZSwitchView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = QYZSwitchView.podspec; path = ../QYZSwitchView.podspec; sourceTree = "<group>"; };
+		35A66B79FB140CFCC041559C /* QYZSwitchView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = QYZSwitchView.podspec; path = ../QYZSwitchView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		493D290EF9B1921C1157A162 /* Pods-QYZSwitchView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QYZSwitchView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-QYZSwitchView_Tests/Pods-QYZSwitchView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* QYZSwitchView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QYZSwitchView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,8 +64,8 @@
 		A9D6D00B9EE30A867C33BB66 /* Pods-QYZSwitchView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QYZSwitchView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QYZSwitchView_Tests/Pods-QYZSwitchView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BABE552DB728EC3621F1E9F1 /* Pods-QYZSwitchView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QYZSwitchView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QYZSwitchView_Example/Pods-QYZSwitchView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DEBC2C026B244DEB7305765A /* Pods_QYZSwitchView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QYZSwitchView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E74B5B4B651DCB95C42838A6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F17487290C8AA68DA0B0C79E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E74B5B4B651DCB95C42838A6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F17487290C8AA68DA0B0C79E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F5E2A3A268ECAAE3AE4C9715 /* Pods-QYZSwitchView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QYZSwitchView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-QYZSwitchView_Example/Pods-QYZSwitchView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
