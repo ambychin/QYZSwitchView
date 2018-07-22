@@ -1,0 +1,6 @@
+framework module QYZSwitchView {
+  umbrella header "QYZSwitchView-umbrella.h"
+
+  export *
+  module * { export * }
+}
