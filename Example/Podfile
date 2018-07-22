@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QYZSwitchView_Example' do
+  pod 'QYZSwitchView', :path => '../'
+
+  target 'QYZSwitchView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
